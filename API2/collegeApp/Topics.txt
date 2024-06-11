@@ -1,0 +1,30 @@
+Web API
+1. Introduction
+2. The Evalution of Web API
+3. Why Web API
+4. Web API Request & Response
+5. Http Verbs
+    a. HTTPGET
+    b. HTTPPOST
+    C. HTTPPUT
+    d. HTTPDELETE
+7. DTOS
+8. Exploring Http Verbs
+9. Using Status Codes
+10. Response Types
+12. Model state validation
+14. Content Negotiation
+15. Routing
+16. Automapper
+17. Dependency Injection
+18. Log
+19. Repository pattern
+20. Authentication & Authorization
+    a. Register
+    b. Login
+21. API Versioning
+22. CORS
+23. Swagger with authentication
+24. POSTMAN
+25. Deploying API
+26. Consuming API
