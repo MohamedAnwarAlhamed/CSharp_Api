@@ -1,0 +1,45 @@
+- REST API Architectural Constraints
+    Client-Server
+    Stateless
+    Cacheable
+    Uniform Interface
+    Layered 
+    Code On demand
+- HTTP(HeperText Transfer Protocol) Method
+    GET
+    POST
+    PUT
+    DELETE
+    HEAD
+    OPTION
+    TRACE
+    CONNECT
+- HTTP STATUS CODES
+    INFORMATIONAL   1**
+    SUCCESS  2**
+    REDIRECTION  3**
+    CLIENT ERROR 4**
+    SERVER ERROR 5**
+- Curl
+- Swagger and Postman
+- JsonPatch
+- Handing with Files in C# API 
+- Http C# API
+    HttpGet
+    HttpPost
+    HttpPut
+    HttpDelete
+    HttpPatch
+- CQRS (Command Query Responsibility Segregation)
+- Handing JSON Cycle Problem
+    Lazy Loading
+    Eager Loading
+- (DTO) Data Tranfer Object
+- Security and Identity
+- (JWT) Json Web Token
+    Header
+    Payload
+    Signature
+
+Key Words:-
+[FromBody], [FromRoute], JsonPatchDocument, iFormFile, [FromForm], [Route()], [ApiController], [JsonIgnore], [IgnoreDataMember], [Controller], [actions], ModelState, [Authorize]
